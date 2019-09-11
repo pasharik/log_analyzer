@@ -11,7 +11,7 @@ gradle
 
 cd build/libs/
 
-java -jar log_analyzer-1.0-SNAPSHOT.jar logfile.txt
+java -jar log_analyzer-1.0-SNAPSHOT.jar <PATH_TO_FILE>/logfile.txt
 ```
 
 Result:
